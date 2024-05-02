@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lairton 🖐️
 
-![Lairton GitHub stats](https://github-readme-stats.vercel.app/api?username=Laiirton&show_icons=true&theme=dracula&count_private=true)
+![Lairton GitHub stats](https://github-readme-stats.vercel.app/api?username=Laiirton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
