@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lairton 🖐️
 
-<img align="left" alt="Lairton Github Stats" src= "https://github-readme-stats-lairtons-projects.vercel.app//api?username=laiirton&&show_icons=true&bg_color=00000000" />
+<img align="left" alt="Lairton Github Stats" src= "https://github-readme-stats-lairtons-projects.vercel.app//api?username=laiirton&&show_icons=true" />
 
 
 
