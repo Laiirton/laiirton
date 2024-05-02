@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lairton 🖐️
 
-<img align="left" alt="Lairton Github Stats" src= "https://github-readme-stats-git-master-lairtons-projects.vercel.app/api?username=laiirton&show_icons=true&hide_border=true" />
+<img align="left" alt="Lairton Github Stats" src= "https://github-readme-stats-git-master-lairtons-projects.vercel.app/api?username=laiirton&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 
 ## Tecnologias que eu uso no meu dia
