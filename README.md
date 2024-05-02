@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lairton 🖐️
+## Olá! Eu sou o Lairton 👾
 
 <img align="left" alt="Lairton Github Stats" src= "https://github-readme-stats-lairtons-projects.vercel.app//api?username=laiirton&&show=prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true" />
 
