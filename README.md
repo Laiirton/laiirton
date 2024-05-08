@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lairton 👾
 
-<img align="left" alt="Lairton Github Stats" src="https://github-readme-stats-lairtons-projects.vercel.app/api?username=laiirton&show=prs_merged,prs_merged_percentage&theme=radical" />
+<img align="left" alt="Lairton Github Stats" src="https://github-readme-stats-lairtons-projects.vercel.app/api?username=laiirton&show=prs_merged,&theme=radical" />
 
 <br clear="left"/> <!-- Isso vai limpar o float da imagem -->
 
