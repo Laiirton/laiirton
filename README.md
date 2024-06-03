@@ -2,7 +2,7 @@
 
 <img align="left" alt="Lairton Github Stats" src="https://github-readme-stats-lairtons-projects.vercel.app/api?username=laiirton&show=prs,&theme=radical" />
 
-<br clear="left"/> <!-- Isso vai limpar o float da imagem -->
+<br clear="left"/> 
 
 ## 🚀 Linguagens Que Eu Mais Uso
 <div style="display: inline_block"><br>
