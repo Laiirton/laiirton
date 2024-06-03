@@ -1,5 +1,5 @@
-Hello! I am Lairton 👾
-Currently, I am working as a backend developer at a technology company.
+## Hello! I am Lairton 👾
+## Currently, I am working as a backend developer at a technology company.
 <img align="left" alt="Lairton Github Stats" src="https://github-readme-stats-lairtons-projects.vercel.app/api?username=laiirton&show=prs,&theme=radical" />
 <br clear="left"/> 
 🚀 Currently Working With
