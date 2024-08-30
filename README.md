@@ -2,6 +2,8 @@
 <img align="left" alt="Lairton Github Stats" src="https://github-readme-stats-lairtons-projects.vercel.app/api?username=laiirton&show=prs,&theme=radical" />
 <br clear="left"/> 
 
+(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwM2h6cmRkODh1N3F4dnozNXFheXluanlxOWwwOTlmaGNnbDMwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vP5gXvSXJ2olG/giphy.webp)
+
 ## 🚀 Currently Working With
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
