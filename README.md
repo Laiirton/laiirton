@@ -4,7 +4,7 @@
 </p>
 <img align="left" alt="Lairton Github Stats" src="https://github-readme-stats-lairtons-projects.vercel.app/api?username=laiirton&show=prs,&theme=radical" />
 <br clear="left"/>
-🚀 Atualmente trabalhando com
+
 <div style="display: inline-block"><br>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
