@@ -2,7 +2,7 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwM2h6cmRkODh1N3F4dnozNXFheXluanlxOWwwOTlmaGNnbDMwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vP5gXvSXJ2olG/giphy.webp" alt="Andromeda Bot" width="100%">
 </p>
-<img align="left" alt="Lairton Github Stats" src="https://githubstats-beta.vercel.app/api?username=laiirton&show=prs&theme=radical&count_private=true" />
+<img align="left" alt="Lairton Github Stats" src="https://githubstats-beta.vercel.app?username=laiirton&show=prs&theme=radical&count_private=true" />
 <br clear="left"/>
 
 
