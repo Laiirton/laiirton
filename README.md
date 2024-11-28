@@ -3,6 +3,12 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVwM2h6cmRkODh1N3F4dnozNXFheXluanlxOWwwOTlmaGNnbDMwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vP5gXvSXJ2olG/giphy.webp" alt="Andromeda Bot" width="100%">
 </p>
 <img align="left" alt="Lairton Github Stats" src="https://githubstatsbeta.vercel.app/apiusername=laiirton&show=prs&theme=radical&count_private=true" />
+<div>
+  <a href="https://github.com/Laiirton">
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=Laiirton&theme=shadow_red&show=prs&theme=radical&count_private=true"/><br />
+    <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prizrak2&layout=compact&langs_count=10&theme=shadow_red"/>
+  </a>
+</div>
 <br clear="left"/>
 
 
