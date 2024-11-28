@@ -6,7 +6,6 @@
 <div>
   <a href="https://github.com/Laiirton">
     <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=Laiirton&theme=shadow_red&show=prs&theme=radical&count_private=true"/><br />
-    <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prizrak2&layout=compact&langs_count=10&theme=shadow_red"/>
   </a>
 </div>
 <br clear="left"/>
